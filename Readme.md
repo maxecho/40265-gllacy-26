@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Yaroslav Lashch](https://up.htmlacademy.ru/htmlcss/26/user/40265).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Кравченко](https://htmlacademy.ru/profile/id13921).
 
 ---
 
